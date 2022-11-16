@@ -1,2 +1,2 @@
-Database
-CS106 - Introduce to Database - SQL
+#Database
+#CS106 - Introduce to Database - SQL
